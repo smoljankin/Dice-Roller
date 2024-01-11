@@ -36,4 +36,12 @@
         app:layout_constraintStart_toStartOf="parent"
         tools:text="1" />
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/dice_1"
+        tools:layout_editor_absoluteX="121dp"
+        tools:layout_editor_absoluteY="39dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
